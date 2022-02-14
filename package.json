@@ -1,0 +1,22 @@
+{
+  "name": "student-ms",
+  "version": "1.0.0",
+  "description": "student managemet app",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/denisdevke/student-ms-backend.git"
+  },
+  "author": "Denis Kipkemboi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisdevke/student-ms-backend/issues"
+  },
+  "homepage": "https://github.com/denisdevke/student-ms-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
